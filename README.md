@@ -2,8 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,6 +13,27 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<div >
+  <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+</div>
+<div>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diabeney&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</div>
+
+
 <!--
 **diabeney/diabeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
