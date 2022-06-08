@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div >
-  <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>
