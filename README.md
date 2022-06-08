@@ -19,19 +19,20 @@
 </div>
 <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"width="40" height="40"/>&nbsp;
 </div>
 <div>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diabeney&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diabeney&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--
