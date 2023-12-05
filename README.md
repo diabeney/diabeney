@@ -7,7 +7,7 @@ Web Developer
 A frontend web developer and I build web applications that users love!!I am actively looking for good opportunities to improve my skills and build a sustainable career in tech.
 
 * 🌍  I'm based in Akosombo, Ghana
-* 🖥️  See my portfolio at [dbn-portfolio](http://dbn-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [dbn-portfolio](https://dbn-portfolio.vercel.app/)
 * ✉️  You can contact me at [addodiabene69@gmail.com](mailto:addodiabene69@gmail.com)
 * 🚀  I'm currently working on [Chemical Engineering Resources](http://not-yet-ready)
 * 🧠  I'm learning Node.js
