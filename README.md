@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-A frontend web developer and I build web applications that users love!!I am actively looking for good opportunities to improve my skills and build a sustainable career in tech.
+A frontend web developer and I build web applications that users love!!I am actively looking for good opportunities to improve my skills.
 
 * 🌍  I'm based in Akosombo, Ghana
 * 🖥️  See my portfolio at [dbn-portfolio](https://dbn-portfolio.vercel.app/)
